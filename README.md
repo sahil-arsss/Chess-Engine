@@ -1,4 +1,4 @@
-# Chess AI Game (Minimax with Alpha-Beta Pruning)
+# Chess Engine (Minimax with Alpha-Beta Pruning)
 
 This is a web-based Chess AI application built using `HTML5`, `CSS3`, and `JavaScript`. The chessboard UI is handled by `chessboard.js`, while game logic (move generation, validation, etc.) is managed by `chess.js`.
 
